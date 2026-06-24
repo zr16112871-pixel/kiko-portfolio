@@ -1,0 +1,12 @@
+最简单的公开发布方法（Netlify）
+
+1. 打开 https://app.netlify.com/drop
+2. 登录或注册一个免费账号。
+3. 把整个“kiko-portfolio-share”文件夹拖进上传区域。
+4. 等待上传完成，页面会生成一个 https://xxx.netlify.app 网址。
+5. 把这个网址发给别人即可。
+
+注意：
+- 不要只上传 index.html，assets 文件夹也必须一起上传。
+- 更新网站后，重新上传整个文件夹。
+- 如果只是通过微信或邮件发送文件，也可以发送压缩包；对方解压后双击 index.html 即可查看。
